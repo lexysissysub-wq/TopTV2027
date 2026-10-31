@@ -559,14 +559,12 @@ https://live.apostoltv.hu/live/playlist.m3u8
 http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pannon RTV (648p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Pannon RTV (648p)
 https://stream.nmih.hu:4102/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M5 (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",M5 (1080p)
-http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV Keszthely (360p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",TV Keszthely (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kecskemeti TV (416p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Kecskemeti TV (416p)
 https://eurobioinvest.hu:444/live/ktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M2 (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",M2 (1080p)
-http://88.212.15.19/live/m2_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Alföld TV (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Alföld TV (1080p)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 
